@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "ALX"
+
+
+[A[A[B[B
+
+
+
+
